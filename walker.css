@@ -22,7 +22,7 @@
 @define-color selected-box #007CB7;
 
 window .box-wrapper {
-    color: @background;
+    background: @background;
     border: 2px solid alpha(@border, 0.0);
 }
 
