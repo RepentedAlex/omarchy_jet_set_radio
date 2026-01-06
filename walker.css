@@ -44,7 +44,6 @@ window .search {
 child:selected {
     border-radius: 10px;
     background-color: alpha(@selected-box, 0.16);
-    color: @selected-box;
     transition: all 0.9s ease-in;
     transition: background-color 0.22s ease-in;
 }
